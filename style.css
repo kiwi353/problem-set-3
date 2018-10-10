@@ -1,7 +1,11 @@
-p {
-    font-family: 'Times New Roman', Times, serif
+body{
+    background-color: skyblue;
+    Margin: 40px;
 }
 
-a {
-    font-family: 'Times New Roman', Times, serif
+#relayBody{
+    background-color: rgb(165, 153, 238);
+}
+
+table{
 }
